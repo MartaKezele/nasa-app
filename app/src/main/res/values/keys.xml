@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="viewed_intro_slides" translatable="false">ViewedIntroSlidersKey</string>
+    <string name="last_data_import_date" translatable="false">LastDataImportDateKey</string>
+    <string name="apod_data_imported" translatable="false">ApodDataImportedKey</string>
+    <string name="neo_data_imported" translatable="false">NeoDataImportedKey</string>
+</resources>

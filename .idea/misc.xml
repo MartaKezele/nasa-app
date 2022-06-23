@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/drawable/host_nav_text_and_icon_color.xml" value="0.2171875" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/drawable/ic_menu.xml" value="0.2171875" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/activity_host.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/activity_intro.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/activity_splash.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/exit_app_alert_dialog.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/fragment_near_earth_objects.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/fragment_picture_of_the_day.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/intro_slide_1.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/intro_slide_2.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/layout/navigation_header.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/menu/host_menu.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/menu/navigation_menu.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Marta/Desktop/New folder/Nasa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nasa</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="app_will_close_soon">App will close soon.</string>
+    <string name="next">Next</string>
+    <string name="got_it">Got it</string>
+    <string name="skip">Skip</string>
+    <string name="astronomy_picture_of_the_day">Astronomy picture of the day</string>
+    <string name="explore_near_earth_asteroids">Explore near earth asteroids</string>
+    <string name="intro_slide_1_desc">Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.</string>
+    <string name="intro_slide_2_desc">Search for Asteroids based on their closest approach date to Earth.</string>
+    <string name="exit">Exit</string>
+    <string name="picture_of_the_day">Picture of the day</string>
+    <string name="near_earth_objects">Near earth objects</string>
+    <string name="do_you_really_want_to_exit">Do you really want to exit?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>
